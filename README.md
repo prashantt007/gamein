@@ -1,5 +1,3 @@
-# gamein
+# The jungle Runner
 
-BCA semV Major project
-
-
+**PROJECT**
